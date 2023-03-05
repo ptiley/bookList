@@ -22,7 +22,7 @@ const Book = () => {
   );
 };
 
-const Image = () => <h2>image placeholder</h2>;
+const Image = () => <h2>image placeholder for adding in an image</h2>;
 const Title = () => {
   return <h2>Book Title</h2>;
 };
